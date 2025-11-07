@@ -8,6 +8,6 @@ colors = [colorsys.hsv_to_rgb(i/36,1,1) for i in range(36)]
 for i in range(360):
     t.color(colors[i])
     t.circle(100)
-    t.left(10)
+    t.left(100)
 
 turtle.done()
