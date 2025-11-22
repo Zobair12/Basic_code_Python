@@ -5,4 +5,4 @@ password = getpass.getpass("Enter your password: ")
 
 print("\nLogging in...")
 print("Usernam:", username)
-print("Password: [hidden for security]")
+print("Password: [Hidden for security ]")
